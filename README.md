@@ -24,3 +24,15 @@ ex6
 ex7
     # Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array.
     # The element value in the i-th row and j-th column of the array should be i _ j.
+ex8
+    # Write a program that accepts a comma separated sequence of words as input
+    # and prints the words in a comma-separated sequence after sorting them alphabetically.
+ex9
+    # Write a program that accepts sequence of lines as input
+    # and prints the lines after making all characters in the sentence capitalized.
+ex10
+    # Write a program that accepts a sequence of whitespace separated words as input
+    # and prints the words after removing all duplicate words and sorting them alphanumerically.
+ex11
+    # Write a program which accepts a sequence of comma separated 4 digit binary numbers as its input and
+    # then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma separated sequence.

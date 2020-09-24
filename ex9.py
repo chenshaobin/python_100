@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+"""
+    # Write a program that accepts sequence of lines as input
+    # and prints the lines after making all characters in the sentence capitalized.
+"""
 # solution1
 """
 lst = []
